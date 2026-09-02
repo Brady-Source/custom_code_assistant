@@ -1,0 +1,1 @@
+MAX_CHARS = 10000 # This will be adjustable by the user to avoid token saturation.
